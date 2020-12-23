@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 
 image_array = np.asarray(Image.open("./NITKC.png")).copy()
-flag = b"xm4s{this_is_dummy_flag!}\0"
+flag = b"xm4s{this_is_steganography!flag_in_image!!}\0"
 written = 0;
 
 for x in range(len(image_array)):
