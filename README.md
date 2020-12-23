@@ -7,7 +7,7 @@
 
 ## Files
 - create_secret_image.py
-- base_image.py
+- output.png
 
 ## writeup
 writeup.mdを見てください
